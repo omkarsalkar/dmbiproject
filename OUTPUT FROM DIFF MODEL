@@ -1,0 +1,15 @@
+Kindly, open the DMBI file in jupyter notebook
+
+MODEL OUTPUTS
+
+1. Decision Tree:
+    Mean:  4.2767535529461265
+    Standard deviation:  1.2186754699349716
+
+2. Linear Regression:
+    Mean:  5.031355665862702
+    Standard deviation:  1.0584083713999421
+
+3. Random Forest Regressoion:
+    Mean:  3.3100474812836587
+    Standard deviation:  0.7182318693653839
